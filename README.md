@@ -1,2 +1,2 @@
 # BeeCrowd-Problems
-A repository to archive my problems solutions of BeeCrowd website
+A repository to archive my solutions of BeeCrowd's problems
