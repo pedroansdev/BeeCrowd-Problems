@@ -1,4 +1,4 @@
-/* A basic script that's sum two integer values */
+/* A basic script that sums two integer values */
 
 using System; 
 

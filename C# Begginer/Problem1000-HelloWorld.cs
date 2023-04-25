@@ -1,4 +1,4 @@
-/* A basic script that's write "hello world" on console */
+/* A basic script that writes "hello world" on the console */
 
 using System; 
 

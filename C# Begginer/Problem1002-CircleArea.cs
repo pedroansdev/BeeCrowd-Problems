@@ -1,4 +1,4 @@
-/* A basic script that's calculate the area of a circle with 4 places after decimal point */
+/* A basic script that calculates the area of a circle with 4 places after decimal point */
 
 using System; 
 
